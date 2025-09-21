@@ -769,9 +769,13 @@ li:hover{
   .search-select{
     display: none;
   }
-  .search-amazon{
-    display: none;
+  
+    .search-amazon{
+   width: 50px;
+ border-top-left-radius: 4px;
+ border-bottom-left-radius: 4px;
   } 
+  
   
   .button{
     width: 2rem;
