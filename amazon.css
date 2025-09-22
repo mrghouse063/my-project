@@ -692,7 +692,7 @@ li:hover{
     }
     .searchbar:hover{
      transform: scale(1.4);
-    transition: 0.3s ease;
+    transition: 0.8s ease;
     width: 300px;
     }
      .navlogo{
