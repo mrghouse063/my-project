@@ -456,7 +456,7 @@ body{
     flex: 0 0 auto;
      height: 200px;
     width: 140px; */
-}
+/* } */
 .book7{
     background-image: url("img4.webp");
     height: 280px;
@@ -500,9 +500,14 @@ body{
     border-top-right-radius: 20px;
 
 }
-h2{
-    margin-left: 40px;
+h1 span{
+    background-color: white;
+}
+h1{
+    background-color: white;
+    /* margin-left: 40px; */
     padding-top: 5px;
+    padding-left: 40px;
     /* padding-bottom: 2px; */
 }
 .sign{
